@@ -1,0 +1,100 @@
+output
+"```json
+[
+  {
+    ""Name"": ""Aldgate Residence"",
+    ""Address"": ""1-2 Education Square, London, E1 1FA / Zone 1"",
+    ""Price"": ""From £535 / week""
+  },
+  {
+    ""Name"": ""Old Street Residence"",
+    ""Address"": ""18 Paul St, London, EC2A 4JH | Zone 1"",
+    ""Price"": ""From £510 / week""
+  },
+  {
+    ""Name"": ""Kirby Street Residence"",
+    ""Address"": ""36-43 Kirby St, London, EC1N 8TE | Zone 1"",
+    ""Price"": ""From £565 / week""
+  },
+  {
+    ""Name"": ""King's Cross Residence"",
+    ""Address"": ""200 Pentonville Rd, London, N1 9JP | Zone 1"",
+    ""Price"": ""From £555 / week""
+  },
+  {
+    ""Name"": ""Lewisham Residence"",
+    ""Address"": ""46 Thurston Rd, London, SE13 7SD | Zone 2"",
+    ""Price"": ""From £350 / week""
+  },
+  {
+    ""Name"": ""Paddington Citi View"",
+    ""Address"": ""15 - 25 Talbot Square, London, W2 1TT | Zone 1"",
+    ""Price"": ""From £370 / week""
+  },
+  {
+    ""Name"": ""Highbury Residence"",
+    ""Address"": ""309 Holloway Road, N7 9DS, London | Zone 2"",
+    ""Price"": ""From £365 / week""
+  },
+  {
+    ""Name"": ""Wembley Arthur House"",
+    ""Address"": ""1 Rutherford Way, London, HA9 0BP | Zone 4"",
+    ""Price"": ""From £365 / week""
+  },
+  {
+    ""Name"": ""Westminster Residence"",
+    ""Address"": ""200A Lambeth Road, London, SE1 7LR | Zone 1"",
+    ""Price"": ""From £575 / week""
+  },
+  {
+    ""Name"": ""Vega Residence"",
+    ""Address"": ""6 Miles St, London, SW8 1RZ | Zone 1"",
+    ""Price"": ""From £400 / week""
+  },
+  {
+    ""Name"": ""McMillan Residence"",
+    ""Address"": ""Creek Rd, London, SE8 3BU | Zone 2"",
+    ""Price"": ""From £190 / week""
+  },
+  {
+    ""Name"": ""White City Residence"",
+    ""Address"": ""10 Westway, London, W12 0DD | Zone 2"",
+    ""Price"": ""From £355 / week""
+  },
+  {
+    ""Name"": ""Islington Residence"",
+    ""Address"": ""32-34 Market Rd, London, N7 9AW | Zone 2"",
+    ""Price"": ""From £330 / week""
+  },
+  {
+    ""Name"": ""Highbury Residence II"",
+    ""Address"": ""295 Holloway Road, London, N7 8HS | Zone 2"",
+    ""Price"": ""From £440 / week""
+  },
+  {
+    ""Name"": ""Spitalfields Residence"",
+    ""Address"": ""9 Frying Pan Alley, London, E1 7HS | Zone 1"",
+    ""Price"": ""From £610 / week""
+  },
+  {
+    ""Name"": ""Sterling Court (Wembley)"",
+    ""Address"": ""6 Lakeside Way, London, HA9 0BU | Zone 4"",
+    ""Price"": ""From £290 / week""
+  },
+  {
+    ""Name"": ""IQ Aldgate Residence"",
+    ""Address"": ""66 Commercial Road, London, E1 1LP | Zone 1"",
+    ""Price"": ""From £470 / week""
+  },
+  {
+    ""Name"": ""Shoreditch Residence"",
+    ""Address"": ""2 Silicon Way, London, N1 6AT | Zone 1"",
+    ""Price"": ""From £495 / week""
+  },
+  {
+    ""Name"": ""Paris Gardens"",
+    ""Address"": ""6 Paris"",
+    ""Price"": null
+  }
+]
+```"
