@@ -27,7 +27,12 @@ Now, On the backend path folder in the terminal run uvicorn main:app --reload --
 Step 4: Open Frontend folder And,
 
 run cmd npx create-react-app ui
+
 cd ui
+
 npm install axios
-if you encountered problem, then i have attached App.js file link, copy the code and paste it to Frontend->ui->src->App.js Link: https://drive.google.com/file/d/1EvxW_qy31MtbSSNXIVnjcEVrwe_gxYI-/view?usp=sharing
+
+if you encountered problem, then i have attached App.js file link, copy the code and paste it to Frontend->ui->src->App.js 
+Link: https://drive.google.com/file/d/1EvxW_qy31MtbSSNXIVnjcEVrwe_gxYI-/view?usp=sharing
+
 on your terminal use npm start
