@@ -10,7 +10,7 @@ Step3: Run and it will automatically get downloaded.
 
 Note: On my end, I'm sharing the target URL i.e gobritanya.com (assumed to be an Amber competitor) along with the output I’m receiving which I have attached with this mail. You can do with any URL and follow the Phase 2, to get output files. 
 
-Targeted URL: https://w ww.gobritanya.com/student-residences/london
+Targeted URL: https://www.gobritanya.com/student-residences/london
 
 
 ## Phase2
